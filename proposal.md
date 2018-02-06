@@ -8,4 +8,4 @@
   2. *Two*
 ## Story
 
-[RIT](www.rit.edu)
+[RIT](https://www.rit.edu)
